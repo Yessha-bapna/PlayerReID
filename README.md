@@ -41,6 +41,7 @@ pip install opencv-python
 pip install deep_sort_realtime
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
+---
 
 # These packages include:
 - YOLOv8 for detection
