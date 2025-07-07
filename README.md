@@ -160,4 +160,4 @@ This output shows each player with a bounding box and a unique, consistent ID ac
 Developed as part of an AI Internship Assignment.  
 Thanks to Ultralytics (YOLOv8) and the Deep SORT Realtime open-source contributors.
 
-Need help? Ask your mentor or team for support.
+
